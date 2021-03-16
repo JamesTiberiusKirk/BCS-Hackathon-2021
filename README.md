@@ -1,14 +1,31 @@
 # BCU Hackathon 2021
 
-
-# Ideas
+## Ideas
 - Sustainability
     - Expiry date tracking system for items in store (EDTS)
         - needs fleshing out
 - Education
+    - Crypto sim app
+        - either simulating our own coin
+        - or using an existing one and haiving fake money
 - Health
 - Boomer tech
+    - Chat bot 
+        - replacing UIs (think weechat)
+        - personal assistant, tageted for altzheimers
+            - reminters, notes, etc
 - Future
+    - Shopping app
+        - multi retailer integration
+            - Tesco, HnM, Primark, Asda, etc.
+        - being able to  scan with the app
+        - pay from the phone
+            - credit/debit card
+            - google/android pay
+        - searchable list of items
+        - shopping list that ticks off when u scan 
+            - with a tag system such as generalised "milk" rather than one specific brand
+        - Possiblity to more easily integrate discoutns, loyantly cards, etc
     - Trading bot crypto
         - Variable stop loss (Dumitru's Idea)
         - Trading logger
@@ -16,4 +33,3 @@
         - Service integration?
             - Telegram, Discord, etc
     - XMOO (Milkers Moo Coin)
-    - 
