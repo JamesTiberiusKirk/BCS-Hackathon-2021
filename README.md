@@ -8,6 +8,12 @@
     - Crypto sim app
         - either simulating our own coin
         - or using an existing one and haiving fake money
+    - Hold.lol sim
+        - single coin exchange
+        - coin charts based on random data from real life (e.g. twitter)
+            - maybe tied with the real value of some real coin
+            - tied in to someone else bying it too
+        - sleep on it
 - Health
 - Boomer tech
     - Chat bot 
@@ -18,15 +24,16 @@
     - Shopping app
         - multi retailer integration
             - Tesco, HnM, Primark, Asda, etc.
+            - Shopping center wide area
         - being able to  scan with the app
         - pay from the phone
             - credit/debit card
-            - google/android pay
+            - google/apple pay
         - searchable list of items
         - shopping list that ticks off when u scan 
             - with a tag system such as generalised "milk" rather than one specific brand
         - Possiblity to more easily integrate discoutns, loyantly cards, etc
-    - Trading bot crypto
+    - Bot crypto
         - Variable stop loss (Dumitru's Idea)
         - Trading logger
         - Custom event alarm
